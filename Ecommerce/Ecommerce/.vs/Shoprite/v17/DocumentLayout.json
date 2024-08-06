@@ -1,0 +1,348 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\4th semestetr\\Ecommerce\\Ecommerce\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{79ED2023-88A9-47C2-BA60-13F9ADFC4263}|Shoprite\\Shoprite.csproj|E:\\4th semestetr\\Ecommerce\\Ecommerce\\shoprite\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79ED2023-88A9-47C2-BA60-13F9ADFC4263}|Shoprite\\Shoprite.csproj|solutionrelative:shoprite\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79ED2023-88A9-47C2-BA60-13F9ADFC4263}|Shoprite\\Shoprite.csproj|e:\\4th semestetr\\ecommerce\\ecommerce\\shoprite\\screens\\shop.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79ED2023-88A9-47C2-BA60-13F9ADFC4263}|Shoprite\\Shoprite.csproj|solutionrelative:shoprite\\screens\\shop.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79ED2023-88A9-47C2-BA60-13F9ADFC4263}|Shoprite\\Shoprite.csproj|E:\\4th semestetr\\Ecommerce\\Ecommerce\\shoprite\\screens\\newuser.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79ED2023-88A9-47C2-BA60-13F9ADFC4263}|Shoprite\\Shoprite.csproj|solutionrelative:shoprite\\screens\\newuser.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79ED2023-88A9-47C2-BA60-13F9ADFC4263}|Shoprite\\Shoprite.csproj|E:\\4th semestetr\\Ecommerce\\Ecommerce\\shoprite\\screens\\home.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79ED2023-88A9-47C2-BA60-13F9ADFC4263}|Shoprite\\Shoprite.csproj|solutionrelative:shoprite\\screens\\home.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79ED2023-88A9-47C2-BA60-13F9ADFC4263}|Shoprite\\Shoprite.csproj|E:\\4th semestetr\\Ecommerce\\Ecommerce\\shoprite\\screens\\forget.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79ED2023-88A9-47C2-BA60-13F9ADFC4263}|Shoprite\\Shoprite.csproj|solutionrelative:shoprite\\screens\\forget.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79ED2023-88A9-47C2-BA60-13F9ADFC4263}|Shoprite\\Shoprite.csproj|E:\\4th semestetr\\Ecommerce\\Ecommerce\\shoprite\\screens\\cart.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79ED2023-88A9-47C2-BA60-13F9ADFC4263}|Shoprite\\Shoprite.csproj|solutionrelative:shoprite\\screens\\cart.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79ED2023-88A9-47C2-BA60-13F9ADFC4263}|Shoprite\\Shoprite.csproj|E:\\4th semestetr\\Ecommerce\\Ecommerce\\shoprite\\screens\\adminscreen.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79ED2023-88A9-47C2-BA60-13F9ADFC4263}|Shoprite\\Shoprite.csproj|solutionrelative:shoprite\\screens\\adminscreen.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79ED2023-88A9-47C2-BA60-13F9ADFC4263}|Shoprite\\Shoprite.csproj|E:\\4th semestetr\\Ecommerce\\Ecommerce\\shoprite\\screens\\admin.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79ED2023-88A9-47C2-BA60-13F9ADFC4263}|Shoprite\\Shoprite.csproj|solutionrelative:shoprite\\screens\\admin.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79ED2023-88A9-47C2-BA60-13F9ADFC4263}|Shoprite\\Shoprite.csproj|e:\\4th semestetr\\ecommerce\\ecommerce\\shoprite\\carts\\tomato.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79ED2023-88A9-47C2-BA60-13F9ADFC4263}|Shoprite\\Shoprite.csproj|solutionrelative:shoprite\\carts\\tomato.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79ED2023-88A9-47C2-BA60-13F9ADFC4263}|Shoprite\\Shoprite.csproj|e:\\4th semestetr\\ecommerce\\ecommerce\\shoprite\\carts\\tills.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79ED2023-88A9-47C2-BA60-13F9ADFC4263}|Shoprite\\Shoprite.csproj|solutionrelative:shoprite\\carts\\tills.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79ED2023-88A9-47C2-BA60-13F9ADFC4263}|Shoprite\\Shoprite.csproj|e:\\4th semestetr\\ecommerce\\ecommerce\\shoprite\\carts\\tills.xaml||{CD07C22A-D51F-4064-AFDB-10CD01D91020}",
+      "RelativeMoniker": "D:0:0:{79ED2023-88A9-47C2-BA60-13F9ADFC4263}|Shoprite\\Shoprite.csproj|solutionrelative:shoprite\\carts\\tills.xaml||{CD07C22A-D51F-4064-AFDB-10CD01D91020}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79ED2023-88A9-47C2-BA60-13F9ADFC4263}|Shoprite\\Shoprite.csproj|E:\\4th semestetr\\Ecommerce\\Ecommerce\\shoprite\\screens\\shop.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{79ED2023-88A9-47C2-BA60-13F9ADFC4263}|Shoprite\\Shoprite.csproj|solutionrelative:shoprite\\screens\\shop.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79ED2023-88A9-47C2-BA60-13F9ADFC4263}|Shoprite\\Shoprite.csproj|E:\\4th semestetr\\Ecommerce\\Ecommerce\\shoprite\\screens\\cart.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{79ED2023-88A9-47C2-BA60-13F9ADFC4263}|Shoprite\\Shoprite.csproj|solutionrelative:shoprite\\screens\\cart.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79ED2023-88A9-47C2-BA60-13F9ADFC4263}|Shoprite\\Shoprite.csproj|E:\\4th semestetr\\Ecommerce\\Ecommerce\\shoprite\\screens\\forget.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{79ED2023-88A9-47C2-BA60-13F9ADFC4263}|Shoprite\\Shoprite.csproj|solutionrelative:shoprite\\screens\\forget.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79ED2023-88A9-47C2-BA60-13F9ADFC4263}|Shoprite\\Shoprite.csproj|E:\\4th semestetr\\Ecommerce\\Ecommerce\\shoprite\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{79ED2023-88A9-47C2-BA60-13F9ADFC4263}|Shoprite\\Shoprite.csproj|solutionrelative:shoprite\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79ED2023-88A9-47C2-BA60-13F9ADFC4263}|Shoprite\\Shoprite.csproj|E:\\4th semestetr\\Ecommerce\\Ecommerce\\shoprite\\screens\\newuser.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{79ED2023-88A9-47C2-BA60-13F9ADFC4263}|Shoprite\\Shoprite.csproj|solutionrelative:shoprite\\screens\\newuser.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79ED2023-88A9-47C2-BA60-13F9ADFC4263}|Shoprite\\Shoprite.csproj|E:\\4th semestetr\\Ecommerce\\Ecommerce\\shoprite\\screens\\adminscreen.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{79ED2023-88A9-47C2-BA60-13F9ADFC4263}|Shoprite\\Shoprite.csproj|solutionrelative:shoprite\\screens\\adminscreen.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79ED2023-88A9-47C2-BA60-13F9ADFC4263}|Shoprite\\Shoprite.csproj|E:\\4th semestetr\\Ecommerce\\Ecommerce\\shoprite\\carts\\tomato.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{79ED2023-88A9-47C2-BA60-13F9ADFC4263}|Shoprite\\Shoprite.csproj|solutionrelative:shoprite\\carts\\tomato.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79ED2023-88A9-47C2-BA60-13F9ADFC4263}|Shoprite\\Shoprite.csproj|E:\\4th semestetr\\Ecommerce\\Ecommerce\\shoprite\\screens\\admin.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{79ED2023-88A9-47C2-BA60-13F9ADFC4263}|Shoprite\\Shoprite.csproj|solutionrelative:shoprite\\screens\\admin.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79ED2023-88A9-47C2-BA60-13F9ADFC4263}|Shoprite\\Shoprite.csproj|E:\\4th semestetr\\Ecommerce\\Ecommerce\\shoprite\\screens\\home.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{79ED2023-88A9-47C2-BA60-13F9ADFC4263}|Shoprite\\Shoprite.csproj|solutionrelative:shoprite\\screens\\home.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AdminScreen.xaml.cs",
+              "DocumentMoniker": "E:\\4th semestetr\\Ecommerce\\Ecommerce\\Shoprite\\Screens\\AdminScreen.xaml.cs",
+              "RelativeDocumentMoniker": "Shoprite\\Screens\\AdminScreen.xaml.cs",
+              "ToolTip": "E:\\4th semestetr\\Ecommerce\\Ecommerce\\Shoprite\\Screens\\AdminScreen.xaml.cs",
+              "RelativeToolTip": "Shoprite\\Screens\\AdminScreen.xaml.cs",
+              "ViewState": "AQIAABQAAAAAfGZmZmYSwBgAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T17:25:35.611Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "cart.xaml.cs",
+              "DocumentMoniker": "E:\\4th semestetr\\Ecommerce\\Ecommerce\\Shoprite\\Screens\\cart.xaml.cs",
+              "RelativeDocumentMoniker": "Shoprite\\Screens\\cart.xaml.cs",
+              "ToolTip": "E:\\4th semestetr\\Ecommerce\\Ecommerce\\Shoprite\\Screens\\cart.xaml.cs",
+              "RelativeToolTip": "Shoprite\\Screens\\cart.xaml.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAYwBQAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T04:43:43.342Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Forget.xaml.cs",
+              "DocumentMoniker": "E:\\4th semestetr\\Ecommerce\\Ecommerce\\Shoprite\\Screens\\Forget.xaml.cs",
+              "RelativeDocumentMoniker": "Shoprite\\Screens\\Forget.xaml.cs",
+              "ToolTip": "E:\\4th semestetr\\Ecommerce\\Ecommerce\\Shoprite\\Screens\\Forget.xaml.cs",
+              "RelativeToolTip": "Shoprite\\Screens\\Forget.xaml.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAAwCUAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T17:14:59.239Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Home.xaml.cs",
+              "DocumentMoniker": "E:\\4th semestetr\\Ecommerce\\Ecommerce\\Shoprite\\Screens\\Home.xaml.cs",
+              "RelativeDocumentMoniker": "Shoprite\\Screens\\Home.xaml.cs",
+              "ToolTip": "E:\\4th semestetr\\Ecommerce\\Ecommerce\\Shoprite\\Screens\\Home.xaml.cs",
+              "RelativeToolTip": "Shoprite\\Screens\\Home.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACAAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T17:26:53.558Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "newUser.xaml.cs",
+              "DocumentMoniker": "E:\\4th semestetr\\Ecommerce\\Ecommerce\\Shoprite\\Screens\\newUser.xaml.cs",
+              "RelativeDocumentMoniker": "Shoprite\\Screens\\newUser.xaml.cs",
+              "ToolTip": "E:\\4th semestetr\\Ecommerce\\Ecommerce\\Shoprite\\Screens\\newUser.xaml.cs",
+              "RelativeToolTip": "Shoprite\\Screens\\newUser.xaml.cs",
+              "ViewState": "AQIAACAAAADAZmZmZiYjwCgAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T17:15:47.888Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Shop.xaml.cs",
+              "DocumentMoniker": "E:\\4th semestetr\\Ecommerce\\Ecommerce\\Shoprite\\Screens\\Shop.xaml.cs",
+              "RelativeDocumentMoniker": "Shoprite\\Screens\\Shop.xaml.cs",
+              "ToolTip": "E:\\4th semestetr\\Ecommerce\\Ecommerce\\Shoprite\\Screens\\Shop.xaml.cs",
+              "RelativeToolTip": "Shoprite\\Screens\\Shop.xaml.cs",
+              "ViewState": "AQIAAGEAAAAANTMzMzMEwBUAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T16:51:32.81Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "E:\\4th semestetr\\Ecommerce\\Ecommerce\\Shoprite\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Shoprite\\MainWindow.xaml.cs",
+              "ToolTip": "E:\\4th semestetr\\Ecommerce\\Ecommerce\\Shoprite\\MainWindow.xaml.cs",
+              "RelativeToolTip": "Shoprite\\MainWindow.xaml.cs",
+              "ViewState": "AQIAACUAAAAAAAAAAAAQwC0AAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T14:12:19.748Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Admin.xaml.cs",
+              "DocumentMoniker": "E:\\4th semestetr\\Ecommerce\\Ecommerce\\Shoprite\\Screens\\Admin.xaml.cs",
+              "RelativeDocumentMoniker": "Shoprite\\Screens\\Admin.xaml.cs",
+              "ToolTip": "E:\\4th semestetr\\Ecommerce\\Ecommerce\\Shoprite\\Screens\\Admin.xaml.cs",
+              "RelativeToolTip": "Shoprite\\Screens\\Admin.xaml.cs",
+              "ViewState": "AQIAABgAAAAA2szMzEwrwCoAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T17:14:02.267Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Tomato.xaml.cs",
+              "DocumentMoniker": "E:\\4th semestetr\\Ecommerce\\Ecommerce\\Shoprite\\carts\\Tomato.xaml.cs",
+              "RelativeDocumentMoniker": "Shoprite\\carts\\Tomato.xaml.cs",
+              "ToolTip": "E:\\4th semestetr\\Ecommerce\\Ecommerce\\Shoprite\\carts\\Tomato.xaml.cs",
+              "RelativeToolTip": "Shoprite\\carts\\Tomato.xaml.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAABAPSMAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T18:06:17.597Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Tills.xaml.cs",
+              "DocumentMoniker": "E:\\4th semestetr\\Ecommerce\\Ecommerce\\Shoprite\\carts\\Tills.xaml.cs",
+              "RelativeDocumentMoniker": "Shoprite\\carts\\Tills.xaml.cs",
+              "ToolTip": "E:\\4th semestetr\\Ecommerce\\Ecommerce\\Shoprite\\carts\\Tills.xaml.cs",
+              "RelativeToolTip": "Shoprite\\carts\\Tills.xaml.cs",
+              "ViewState": "AQIAABgAAACAmJmZmZklwCQAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T18:05:53.693Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Tills.xaml",
+              "DocumentMoniker": "E:\\4th semestetr\\Ecommerce\\Ecommerce\\Shoprite\\carts\\Tills.xaml",
+              "RelativeDocumentMoniker": "Shoprite\\carts\\Tills.xaml",
+              "ToolTip": "E:\\4th semestetr\\Ecommerce\\Ecommerce\\Shoprite\\carts\\Tills.xaml",
+              "RelativeToolTip": "Shoprite\\carts\\Tills.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-30T18:05:29.525Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Tomato.xaml",
+              "DocumentMoniker": "E:\\4th semestetr\\Ecommerce\\Ecommerce\\Shoprite\\carts\\Tomato.xaml",
+              "RelativeDocumentMoniker": "Shoprite\\carts\\Tomato.xaml",
+              "ToolTip": "E:\\4th semestetr\\Ecommerce\\Ecommerce\\Shoprite\\carts\\Tomato.xaml",
+              "RelativeToolTip": "Shoprite\\carts\\Tomato.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-21T18:51:25.979Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "newUser.xaml",
+              "DocumentMoniker": "E:\\4th semestetr\\Ecommerce\\Ecommerce\\Shoprite\\Screens\\newUser.xaml",
+              "RelativeDocumentMoniker": "Shoprite\\Screens\\newUser.xaml",
+              "ToolTip": "E:\\4th semestetr\\Ecommerce\\Ecommerce\\Shoprite\\Screens\\newUser.xaml",
+              "RelativeToolTip": "Shoprite\\Screens\\newUser.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-21T18:58:19.284Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "E:\\4th semestetr\\Ecommerce\\Ecommerce\\Shoprite\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "Shoprite\\MainWindow.xaml",
+              "ToolTip": "E:\\4th semestetr\\Ecommerce\\Ecommerce\\Shoprite\\MainWindow.xaml",
+              "RelativeToolTip": "Shoprite\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-21T18:58:53.556Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Home.xaml",
+              "DocumentMoniker": "E:\\4th semestetr\\Ecommerce\\Ecommerce\\Shoprite\\Screens\\Home.xaml",
+              "RelativeDocumentMoniker": "Shoprite\\Screens\\Home.xaml",
+              "ToolTip": "E:\\4th semestetr\\Ecommerce\\Ecommerce\\Shoprite\\Screens\\Home.xaml",
+              "RelativeToolTip": "Shoprite\\Screens\\Home.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-21T18:47:17.22Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Admin.xaml",
+              "DocumentMoniker": "E:\\4th semestetr\\Ecommerce\\Ecommerce\\Shoprite\\Screens\\Admin.xaml",
+              "RelativeDocumentMoniker": "Shoprite\\Screens\\Admin.xaml",
+              "ToolTip": "E:\\4th semestetr\\Ecommerce\\Ecommerce\\Shoprite\\Screens\\Admin.xaml",
+              "RelativeToolTip": "Shoprite\\Screens\\Admin.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-21T18:48:34.604Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "AdminScreen.xaml",
+              "DocumentMoniker": "E:\\4th semestetr\\Ecommerce\\Ecommerce\\Shoprite\\Screens\\AdminScreen.xaml",
+              "RelativeDocumentMoniker": "Shoprite\\Screens\\AdminScreen.xaml",
+              "ToolTip": "E:\\4th semestetr\\Ecommerce\\Ecommerce\\Shoprite\\Screens\\AdminScreen.xaml",
+              "RelativeToolTip": "Shoprite\\Screens\\AdminScreen.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-21T18:57:15.666Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Forget.xaml",
+              "DocumentMoniker": "E:\\4th semestetr\\Ecommerce\\Ecommerce\\Shoprite\\Screens\\Forget.xaml",
+              "RelativeDocumentMoniker": "Shoprite\\Screens\\Forget.xaml",
+              "ToolTip": "E:\\4th semestetr\\Ecommerce\\Ecommerce\\Shoprite\\Screens\\Forget.xaml",
+              "RelativeToolTip": "Shoprite\\Screens\\Forget.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-21T18:57:26.983Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "cart.xaml",
+              "DocumentMoniker": "E:\\4th semestetr\\Ecommerce\\Ecommerce\\Shoprite\\Screens\\cart.xaml",
+              "RelativeDocumentMoniker": "Shoprite\\Screens\\cart.xaml",
+              "ToolTip": "E:\\4th semestetr\\Ecommerce\\Ecommerce\\Shoprite\\Screens\\cart.xaml",
+              "RelativeToolTip": "Shoprite\\Screens\\cart.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-22T04:56:49.593Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Shop.xaml",
+              "DocumentMoniker": "E:\\4th semestetr\\Ecommerce\\Ecommerce\\Shoprite\\Screens\\Shop.xaml",
+              "RelativeDocumentMoniker": "Shoprite\\Screens\\Shop.xaml",
+              "ToolTip": "E:\\4th semestetr\\Ecommerce\\Ecommerce\\Shoprite\\Screens\\Shop.xaml",
+              "RelativeToolTip": "Shoprite\\Screens\\Shop.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-22T05:38:10.806Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,75 @@
+﻿<Window x:Class="Shoprite.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes"
+        xmlns:local="clr-namespace:Shoprite"
+        mc:Ignorable="d"
+        Title="Login" Height="760" Width="1400"
+        TextElement.Foreground="{DynamicResource MaterialDesignBody}"
+        Background="{x:Null}" 
+        AllowsTransparency="True"
+        WindowStyle="None"
+        WindowStartupLocation="CenterScreen">
+
+    <materialDesign:Card UniformCornerRadius="20" Background="{DynamicResource MaterialDesignPaper}" 
+     Margin="25" materialDesign:ShadowAssist.ShadowDepth="Depth4">
+        <materialDesign:DialogHost CloseOnClickAway="False" x:Name="DialogHost">
+            <StackPanel Background="White">
+
+                <materialDesign:PopupBox HorizontalAlignment="Right" Margin="0 20 20 0" 
+                 PlacementMode="BottomAndAlignRightEdges" StaysOpen="False" Height="25">
+                    <StackPanel>
+                        <StackPanel Margin="16 10 0 6" Orientation="Horizontal" HorizontalAlignment="Center">
+                            <TextBlock VerticalAlignment="Center" Text="Dark Mode"/>
+                            <ToggleButton Cursor="Hand" ToolTip="Enable Dark Theme" x:Name="themeToggle"
+                                Margin="12 0 8 0" IsChecked="{Binding isDarkTheme}" Click="toggleTheme"/>
+                        </StackPanel>
+
+                        <Button ToolTip="Having trouble logging in?" Margin="0 8 0 0" Content="Help Me" />
+                        <Button x:Name="btn_exit" ToolTip="Close Application" Content="Exit App" Click="exitApp"/>
+                    </StackPanel>
+                </materialDesign:PopupBox>
+
+                <Image Margin="0 50 0 10" Source="/Images/kheri.png" Height="200" />
+                <TextBlock  Margin="0 25 0 5" HorizontalAlignment="Center" FontSize="28"
+                 FontWeight="Bold" Text="Welcome Back!"/>
+                
+                <StackPanel Orientation="Horizontal" VerticalAlignment="Center" HorizontalAlignment="Center">
+                    <TextBlock FontSize="17" FontWeight="SemiBold" VerticalAlignment="Center" 
+                    Text="or please login as " />
+                    
+                    <Button Margin="-18 0 0 0" x:Name="adminbtn" Style="{StaticResource MaterialDesignFlatButton}"
+                        materialDesign:ShadowAssist.ShadowDepth="Depth0" Height="53" Width="90" Click="adminbtn_Click"
+                        materialDesign:ButtonAssist.CornerRadius="10" FontSize="18" Content="Admin" VerticalAlignment="Center"/>
+                </StackPanel>
+                
+                <TextBox x:Name="txtUsername" Width="300" Margin="0 10 0 0" FontSize="18"
+                    materialDesign:HintAssist.Hint="Enter Username" BorderThickness="2"
+                         BorderBrush="{ DynamicResource MaterialDesignDivider}" 
+                         Style="{StaticResource MaterialDesignOutlinedTextBox}"/>
+
+                <PasswordBox Margin="0 20 0 0" x:Name="txtPassword" Width="300" FontSize="18"
+                    materialDesign:HintAssist.Hint="Enter Password" BorderBrush="{DynamicResource MaterialDesignDivider}"
+                    BorderThickness="2" Style="{StaticResource MaterialDesignOutlinedPasswordBox}" />
+                <Button Margin="0 20 0 0 " x:Name="loginbtn" Style="{StaticResource MaterialDesignFlatMidBgButton}"
+                        materialDesign:ShadowAssist.ShadowDepth="Depth0" Height="53" Width="300" 
+                        materialDesign:ButtonAssist.CornerRadius="10" FontSize="18" Content="Login" Click="loginbtn_Click" />
+
+                <StackPanel Orientation="Horizontal"  HorizontalAlignment="Center" VerticalAlignment="Center">
+                    <Button Margin="0 20 0 0" x:Name="signupbtn" Style="{StaticResource MaterialDesignFlatButton}"
+                        materialDesign:ShadowAssist.ShadowDepth="Depth0" Height="53" Width="160" 
+                        materialDesign:ButtonAssist.CornerRadius="10" FontSize="18" Content="Create Account" Click="create" />
+
+                    <Button Margin="0 20 0 0" x:Name="fgtpass" Style="{StaticResource MaterialDesignFlatButton}"
+                        materialDesign:ShadowAssist.ShadowDepth="Depth0" Height="53" Width="170" Click="fgtpass_Cli"
+                        materialDesign:ButtonAssist.CornerRadius="10" FontSize="18" Content="Forget Password" />
+                </StackPanel>
+
+
+            </StackPanel>
+        </materialDesign:DialogHost>
+    </materialDesign:Card>
+
+</Window>

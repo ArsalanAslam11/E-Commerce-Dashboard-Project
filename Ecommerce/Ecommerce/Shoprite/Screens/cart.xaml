@@ -1,0 +1,22 @@
+﻿<Window x:Class="Shoprite.Screens.cart"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Shoprite.Screens"
+        mc:Ignorable="d"
+        Title="cart" Height="511" Width="800">
+    <Grid Margin="0,0,0,-6">
+        <Label x:Name="Label1" Content="Description" FontSize="50" HorizontalAlignment="Left" Margin="67,84,0,0" VerticalAlignment="Top"/>
+        <Label x:Name="Label2" Content="Price" FontSize="60" FontWeight="ExtraBlack" HorizontalAlignment="Left" Margin="93,271,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.401,-5.141"/>
+        <TextBox x:Name="Name" HorizontalAlignment="Left" TextAlignment="Center" Padding="0 10 0 10 " Width="300" Margin="428,28,0,0" TextWrapping="Wrap" Text="Name" VerticalAlignment="Top" 
+                 MouseEnter="TextBox_MouseEnter" MouseLeave="TextBox_MouseLeave"/>
+        <TextBox x:Name="Contact" HorizontalAlignment="Left" TextAlignment="Center" Padding="0 10 0 10 " Width="300" Margin="427,105,0,0" TextWrapping="Wrap" Text="Contact" VerticalAlignment="Top"
+                 MouseEnter="TextBox_MouseEnter" MouseLeave="TextBox_MouseLeave"/>
+        <TextBox x:Name="Address" HorizontalAlignment="Left" TextAlignment="Center" Padding="0 10 0 10 " Width="300" Margin="427,180,0,0" TextWrapping="Wrap" Text="Address" VerticalAlignment="Top"
+                 MouseEnter="TextBox_MouseEnter" MouseLeave="TextBox_MouseLeave"/>
+        <TextBox x:Name="Zip_Code" HorizontalAlignment="Left" TextAlignment="Center" Padding="0 10 0 10 " Width="300" Margin="427,273,0,0" TextWrapping="Wrap" Text="Price" VerticalAlignment="Top"
+                 MouseEnter="TextBox_MouseEnter" MouseLeave="TextBox_MouseLeave"/>
+        <Button x:Name="Buy" Width="200" Margin="475,371,125,31" Content="Buy" Click="Buy_Click_1"/>
+    </Grid>
+</Window>

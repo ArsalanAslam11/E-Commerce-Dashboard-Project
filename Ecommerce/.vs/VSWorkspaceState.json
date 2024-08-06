@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\packages",
+    "\\packages\\MaterialDesignColors.2.0.6",
+    "\\packages\\MaterialDesignColors.2.0.6\\images",
+    "\\packages\\MaterialDesignThemes.4.5.0",
+    "\\Shoprite",
+    "\\Shoprite\\bin",
+    "\\Shoprite\\carts",
+    "\\Shoprite\\obj",
+    "\\Shoprite\\Screens"
+  ],
+  "SelectedNode": "\\Shoprite\\Screens\\Shop.xaml.cs",
+  "PreviewInSolutionExplorer": false
+}

@@ -1,0 +1,270 @@
+C:\Users\CODED\source\repos\Shoprite\Shoprite\bin\Debug\Shoprite.exe.config
+C:\Users\CODED\source\repos\Shoprite\Shoprite\bin\Debug\Shoprite.exe
+C:\Users\CODED\source\repos\Shoprite\Shoprite\bin\Debug\Shoprite.pdb
+C:\Users\CODED\source\repos\Shoprite\Shoprite\bin\Debug\MaterialDesignColors.dll
+C:\Users\CODED\source\repos\Shoprite\Shoprite\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\CODED\source\repos\Shoprite\Shoprite\bin\Debug\MaterialDesignColors.pdb
+C:\Users\CODED\source\repos\Shoprite\Shoprite\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\CODED\source\repos\Shoprite\Shoprite\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\CODED\source\repos\Shoprite\Shoprite\obj\Debug\Shoprite.csproj.AssemblyReference.cache
+C:\Users\CODED\source\repos\Shoprite\Shoprite\obj\Debug\Shoprite.csproj.SuggestedBindingRedirects.cache
+C:\Users\CODED\source\repos\Shoprite\Shoprite\obj\Debug\MainWindow.g.cs
+C:\Users\CODED\source\repos\Shoprite\Shoprite\obj\Debug\App.g.cs
+C:\Users\CODED\source\repos\Shoprite\Shoprite\obj\Debug\Shoprite_MarkupCompile.cache
+C:\Users\CODED\source\repos\Shoprite\Shoprite\obj\Debug\Shoprite_MarkupCompile.lref
+C:\Users\CODED\source\repos\Shoprite\Shoprite\obj\Debug\App.baml
+C:\Users\CODED\source\repos\Shoprite\Shoprite\obj\Debug\MainWindow.baml
+C:\Users\CODED\source\repos\Shoprite\Shoprite\obj\Debug\Shoprite.g.resources
+C:\Users\CODED\source\repos\Shoprite\Shoprite\obj\Debug\Shoprite.Properties.Resources.resources
+C:\Users\CODED\source\repos\Shoprite\Shoprite\obj\Debug\Shoprite.csproj.GenerateResource.cache
+C:\Users\CODED\source\repos\Shoprite\Shoprite\obj\Debug\Shoprite.csproj.CoreCompileInputs.cache
+C:\Users\CODED\source\repos\Shoprite\Shoprite\obj\Debug\Shoprite.csproj.CopyComplete
+C:\Users\CODED\source\repos\Shoprite\Shoprite\obj\Debug\Shoprite.exe
+C:\Users\CODED\source\repos\Shoprite\Shoprite\obj\Debug\Shoprite.pdb
+C:\Users\CODED\source\repos\Shoprite\Shoprite\obj\Debug\Screens\Home.g.cs
+C:\Users\CODED\source\repos\Shoprite\Shoprite\obj\Debug\Screens\Home.baml
+C:\Users\CODED\source\repos\Shoprite\Shoprite\obj\Debug\Screens\Forget.g.cs
+C:\Users\CODED\source\repos\Shoprite\Shoprite\obj\Debug\Screens\Forget.baml
+C:\Users\CODED\source\repos\Shoprite\Shoprite\obj\Debug\Screens\newUser.g.cs
+C:\Users\CODED\source\repos\Shoprite\Shoprite\obj\Debug\Screens\newUser.baml
+C:\Users\CODED\source\repos\Shoprite\Shoprite\obj\Debug\Screens\Shop.g.cs
+C:\Users\CODED\source\repos\Shoprite\Shoprite\obj\Debug\Screens\Shop.baml
+C:\Users\CODED\source\repos\Shoprite\Shoprite\obj\Debug\carts\Tomato.g.cs
+C:\Users\CODED\source\repos\Shoprite\Shoprite\obj\Debug\carts\Tomato.baml
+C:\Users\CODED\source\repos\Shoprite\Shoprite\obj\Debug\Screens\Admin.g.cs
+C:\Users\CODED\source\repos\Shoprite\Shoprite\obj\Debug\Screens\Admin.baml
+C:\Users\CODED\source\repos\Shoprite\Shoprite\bin\Debug\MySql.Data.dll
+C:\Users\CODED\source\repos\Shoprite\Shoprite\bin\Debug\Google.Protobuf.dll
+C:\Users\CODED\source\repos\Shoprite\Shoprite\bin\Debug\ZstdNet.dll
+C:\Users\CODED\source\repos\Shoprite\Shoprite\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\CODED\source\repos\Shoprite\Shoprite\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\CODED\source\repos\Shoprite\Shoprite\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\CODED\source\repos\Shoprite\Shoprite\bin\Debug\System.Memory.dll
+C:\Users\CODED\source\repos\Shoprite\Shoprite\bin\Debug\System.Buffers.dll
+C:\Users\CODED\source\repos\Shoprite\Shoprite\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\CODED\source\repos\Shoprite\Shoprite\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\CODED\source\repos\Shoprite\Shoprite\bin\Debug\MySql.Data.xml
+C:\Users\CODED\source\repos\Shoprite\Shoprite\obj\Debug\Shoprite.exe.config
+C:\Users\CODED\source\repos\Shoprite\Shoprite\obj\Debug\Screens\AdminScreen.g.cs
+C:\Users\CODED\source\repos\Shoprite\Shoprite\obj\Debug\Screens\AdminScreen.baml
+C:\Users\CODED\source\repos\Shoprite\Shoprite\obj\Debug\carts\Tills.g.cs
+C:\Users\CODED\source\repos\Shoprite\Shoprite\obj\Debug\carts\Tills.baml
+C:\Users\Arsalan Aslam\OneDrive\Desktop\Inventory-Desktop-App-CSharp_WPF_XAML-main\Shoprite\bin\Debug\Shoprite.exe.config
+C:\Users\Arsalan Aslam\OneDrive\Desktop\Inventory-Desktop-App-CSharp_WPF_XAML-main\Shoprite\bin\Debug\Shoprite.exe
+C:\Users\Arsalan Aslam\OneDrive\Desktop\Inventory-Desktop-App-CSharp_WPF_XAML-main\Shoprite\bin\Debug\Shoprite.pdb
+C:\Users\Arsalan Aslam\OneDrive\Desktop\Inventory-Desktop-App-CSharp_WPF_XAML-main\Shoprite\bin\Debug\MaterialDesignColors.dll
+C:\Users\Arsalan Aslam\OneDrive\Desktop\Inventory-Desktop-App-CSharp_WPF_XAML-main\Shoprite\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\Arsalan Aslam\OneDrive\Desktop\Inventory-Desktop-App-CSharp_WPF_XAML-main\Shoprite\bin\Debug\Google.Protobuf.dll
+C:\Users\Arsalan Aslam\OneDrive\Desktop\Inventory-Desktop-App-CSharp_WPF_XAML-main\Shoprite\bin\Debug\ZstdNet.dll
+C:\Users\Arsalan Aslam\OneDrive\Desktop\Inventory-Desktop-App-CSharp_WPF_XAML-main\Shoprite\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Arsalan Aslam\OneDrive\Desktop\Inventory-Desktop-App-CSharp_WPF_XAML-main\Shoprite\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Arsalan Aslam\OneDrive\Desktop\Inventory-Desktop-App-CSharp_WPF_XAML-main\Shoprite\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\Arsalan Aslam\OneDrive\Desktop\Inventory-Desktop-App-CSharp_WPF_XAML-main\Shoprite\bin\Debug\System.Memory.dll
+C:\Users\Arsalan Aslam\OneDrive\Desktop\Inventory-Desktop-App-CSharp_WPF_XAML-main\Shoprite\bin\Debug\System.Buffers.dll
+C:\Users\Arsalan Aslam\OneDrive\Desktop\Inventory-Desktop-App-CSharp_WPF_XAML-main\Shoprite\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Arsalan Aslam\OneDrive\Desktop\Inventory-Desktop-App-CSharp_WPF_XAML-main\Shoprite\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Arsalan Aslam\OneDrive\Desktop\Inventory-Desktop-App-CSharp_WPF_XAML-main\Shoprite\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Arsalan Aslam\OneDrive\Desktop\Inventory-Desktop-App-CSharp_WPF_XAML-main\Shoprite\bin\Debug\MaterialDesignColors.pdb
+C:\Users\Arsalan Aslam\OneDrive\Desktop\Inventory-Desktop-App-CSharp_WPF_XAML-main\Shoprite\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\Arsalan Aslam\OneDrive\Desktop\Inventory-Desktop-App-CSharp_WPF_XAML-main\Shoprite\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\Arsalan Aslam\OneDrive\Desktop\Inventory-Desktop-App-CSharp_WPF_XAML-main\Shoprite\bin\Debug\MySql.Data.xml
+C:\Users\Arsalan Aslam\OneDrive\Desktop\Inventory-Desktop-App-CSharp_WPF_XAML-main\Shoprite\obj\Debug\Shoprite.csproj.AssemblyReference.cache
+C:\Users\Arsalan Aslam\OneDrive\Desktop\Inventory-Desktop-App-CSharp_WPF_XAML-main\Shoprite\obj\Debug\Shoprite.csproj.SuggestedBindingRedirects.cache
+C:\Users\Arsalan Aslam\OneDrive\Desktop\Inventory-Desktop-App-CSharp_WPF_XAML-main\Shoprite\obj\Debug\Shoprite.exe.config
+C:\Users\Arsalan Aslam\OneDrive\Desktop\Inventory-Desktop-App-CSharp_WPF_XAML-main\Shoprite\obj\Debug\carts\Tills.g.cs
+C:\Users\Arsalan Aslam\OneDrive\Desktop\Inventory-Desktop-App-CSharp_WPF_XAML-main\Shoprite\obj\Debug\carts\Tomato.g.cs
+C:\Users\Arsalan Aslam\OneDrive\Desktop\Inventory-Desktop-App-CSharp_WPF_XAML-main\Shoprite\obj\Debug\MainWindow.g.cs
+C:\Users\Arsalan Aslam\OneDrive\Desktop\Inventory-Desktop-App-CSharp_WPF_XAML-main\Shoprite\obj\Debug\Screens\Admin.g.cs
+C:\Users\Arsalan Aslam\OneDrive\Desktop\Inventory-Desktop-App-CSharp_WPF_XAML-main\Shoprite\obj\Debug\Screens\AdminScreen.g.cs
+C:\Users\Arsalan Aslam\OneDrive\Desktop\Inventory-Desktop-App-CSharp_WPF_XAML-main\Shoprite\obj\Debug\Screens\Forget.g.cs
+C:\Users\Arsalan Aslam\OneDrive\Desktop\Inventory-Desktop-App-CSharp_WPF_XAML-main\Shoprite\obj\Debug\Screens\Home.g.cs
+C:\Users\Arsalan Aslam\OneDrive\Desktop\Inventory-Desktop-App-CSharp_WPF_XAML-main\Shoprite\obj\Debug\Screens\newUser.g.cs
+C:\Users\Arsalan Aslam\OneDrive\Desktop\Inventory-Desktop-App-CSharp_WPF_XAML-main\Shoprite\obj\Debug\Screens\Shop.g.cs
+C:\Users\Arsalan Aslam\OneDrive\Desktop\Inventory-Desktop-App-CSharp_WPF_XAML-main\Shoprite\obj\Debug\App.g.cs
+C:\Users\Arsalan Aslam\OneDrive\Desktop\Inventory-Desktop-App-CSharp_WPF_XAML-main\Shoprite\obj\Debug\Shoprite_MarkupCompile.cache
+C:\Users\Arsalan Aslam\OneDrive\Desktop\Inventory-Desktop-App-CSharp_WPF_XAML-main\Shoprite\obj\Debug\Shoprite_MarkupCompile.lref
+C:\Users\Arsalan Aslam\OneDrive\Desktop\Inventory-Desktop-App-CSharp_WPF_XAML-main\Shoprite\obj\Debug\App.baml
+C:\Users\Arsalan Aslam\OneDrive\Desktop\Inventory-Desktop-App-CSharp_WPF_XAML-main\Shoprite\obj\Debug\carts\Tills.baml
+C:\Users\Arsalan Aslam\OneDrive\Desktop\Inventory-Desktop-App-CSharp_WPF_XAML-main\Shoprite\obj\Debug\carts\Tomato.baml
+C:\Users\Arsalan Aslam\OneDrive\Desktop\Inventory-Desktop-App-CSharp_WPF_XAML-main\Shoprite\obj\Debug\MainWindow.baml
+C:\Users\Arsalan Aslam\OneDrive\Desktop\Inventory-Desktop-App-CSharp_WPF_XAML-main\Shoprite\obj\Debug\Screens\Admin.baml
+C:\Users\Arsalan Aslam\OneDrive\Desktop\Inventory-Desktop-App-CSharp_WPF_XAML-main\Shoprite\obj\Debug\Screens\AdminScreen.baml
+C:\Users\Arsalan Aslam\OneDrive\Desktop\Inventory-Desktop-App-CSharp_WPF_XAML-main\Shoprite\obj\Debug\Screens\Forget.baml
+C:\Users\Arsalan Aslam\OneDrive\Desktop\Inventory-Desktop-App-CSharp_WPF_XAML-main\Shoprite\obj\Debug\Screens\Home.baml
+C:\Users\Arsalan Aslam\OneDrive\Desktop\Inventory-Desktop-App-CSharp_WPF_XAML-main\Shoprite\obj\Debug\Screens\newUser.baml
+C:\Users\Arsalan Aslam\OneDrive\Desktop\Inventory-Desktop-App-CSharp_WPF_XAML-main\Shoprite\obj\Debug\Screens\Shop.baml
+C:\Users\Arsalan Aslam\OneDrive\Desktop\Inventory-Desktop-App-CSharp_WPF_XAML-main\Shoprite\obj\Debug\Shoprite.g.resources
+C:\Users\Arsalan Aslam\OneDrive\Desktop\Inventory-Desktop-App-CSharp_WPF_XAML-main\Shoprite\obj\Debug\Shoprite.Properties.Resources.resources
+C:\Users\Arsalan Aslam\OneDrive\Desktop\Inventory-Desktop-App-CSharp_WPF_XAML-main\Shoprite\obj\Debug\Shoprite.csproj.GenerateResource.cache
+C:\Users\Arsalan Aslam\OneDrive\Desktop\Inventory-Desktop-App-CSharp_WPF_XAML-main\Shoprite\obj\Debug\Shoprite.csproj.CoreCompileInputs.cache
+C:\Users\Arsalan Aslam\OneDrive\Desktop\Inventory-Desktop-App-CSharp_WPF_XAML-main\Shoprite\obj\Debug\Shoprite.csproj.Up2Date
+C:\Users\Arsalan Aslam\OneDrive\Desktop\Inventory-Desktop-App-CSharp_WPF_XAML-main\Shoprite\obj\Debug\Shoprite.exe
+C:\Users\Arsalan Aslam\OneDrive\Desktop\Inventory-Desktop-App-CSharp_WPF_XAML-main\Shoprite\obj\Debug\Shoprite.pdb
+C:\Users\Arsalan Aslam\OneDrive\Desktop\Inventory-Desktop-App-CSharp_WPF_XAML-main\Shoprite\obj\Debug\Screens\cart.g.cs
+C:\Users\Arsalan Aslam\OneDrive\Desktop\Inventory-Desktop-App-CSharp_WPF_XAML-main\Shoprite\obj\Debug\Screens\cart.baml
+E:\Ecommerce\Shoprite\bin\Debug\Shoprite.exe.config
+E:\Ecommerce\Shoprite\bin\Debug\Shoprite.exe
+E:\Ecommerce\Shoprite\bin\Debug\Shoprite.pdb
+E:\Ecommerce\Shoprite\bin\Debug\MaterialDesignColors.dll
+E:\Ecommerce\Shoprite\bin\Debug\MaterialDesignThemes.Wpf.dll
+E:\Ecommerce\Shoprite\bin\Debug\Google.Protobuf.dll
+E:\Ecommerce\Shoprite\bin\Debug\ZstdNet.dll
+E:\Ecommerce\Shoprite\bin\Debug\K4os.Compression.LZ4.Streams.dll
+E:\Ecommerce\Shoprite\bin\Debug\BouncyCastle.Crypto.dll
+E:\Ecommerce\Shoprite\bin\Debug\Ubiety.Dns.Core.dll
+E:\Ecommerce\Shoprite\bin\Debug\System.Memory.dll
+E:\Ecommerce\Shoprite\bin\Debug\System.Buffers.dll
+E:\Ecommerce\Shoprite\bin\Debug\K4os.Compression.LZ4.dll
+E:\Ecommerce\Shoprite\bin\Debug\K4os.Hash.xxHash.dll
+E:\Ecommerce\Shoprite\bin\Debug\System.Numerics.Vectors.dll
+E:\Ecommerce\Shoprite\bin\Debug\MaterialDesignColors.pdb
+E:\Ecommerce\Shoprite\bin\Debug\MaterialDesignThemes.Wpf.pdb
+E:\Ecommerce\Shoprite\bin\Debug\MaterialDesignThemes.Wpf.xml
+E:\Ecommerce\Shoprite\bin\Debug\MySql.Data.xml
+E:\Ecommerce\Shoprite\obj\Debug\Shoprite.csproj.AssemblyReference.cache
+E:\Ecommerce\Shoprite\obj\Debug\Shoprite.csproj.SuggestedBindingRedirects.cache
+E:\Ecommerce\Shoprite\obj\Debug\Shoprite.exe.config
+E:\Ecommerce\Shoprite\obj\Debug\carts\Tills.g.cs
+E:\Ecommerce\Shoprite\obj\Debug\carts\Tomato.g.cs
+E:\Ecommerce\Shoprite\obj\Debug\MainWindow.g.cs
+E:\Ecommerce\Shoprite\obj\Debug\Screens\Admin.g.cs
+E:\Ecommerce\Shoprite\obj\Debug\Screens\AdminScreen.g.cs
+E:\Ecommerce\Shoprite\obj\Debug\Screens\cart.g.cs
+E:\Ecommerce\Shoprite\obj\Debug\Screens\Forget.g.cs
+E:\Ecommerce\Shoprite\obj\Debug\Screens\Home.g.cs
+E:\Ecommerce\Shoprite\obj\Debug\Screens\newUser.g.cs
+E:\Ecommerce\Shoprite\obj\Debug\Screens\Shop.g.cs
+E:\Ecommerce\Shoprite\obj\Debug\App.g.cs
+E:\Ecommerce\Shoprite\obj\Debug\Shoprite_MarkupCompile.cache
+E:\Ecommerce\Shoprite\obj\Debug\Shoprite_MarkupCompile.lref
+E:\Ecommerce\Shoprite\obj\Debug\App.baml
+E:\Ecommerce\Shoprite\obj\Debug\carts\Tills.baml
+E:\Ecommerce\Shoprite\obj\Debug\carts\Tomato.baml
+E:\Ecommerce\Shoprite\obj\Debug\MainWindow.baml
+E:\Ecommerce\Shoprite\obj\Debug\Screens\Admin.baml
+E:\Ecommerce\Shoprite\obj\Debug\Screens\AdminScreen.baml
+E:\Ecommerce\Shoprite\obj\Debug\Screens\cart.baml
+E:\Ecommerce\Shoprite\obj\Debug\Screens\Forget.baml
+E:\Ecommerce\Shoprite\obj\Debug\Screens\Home.baml
+E:\Ecommerce\Shoprite\obj\Debug\Screens\newUser.baml
+E:\Ecommerce\Shoprite\obj\Debug\Screens\Shop.baml
+E:\Ecommerce\Shoprite\obj\Debug\Shoprite.g.resources
+E:\Ecommerce\Shoprite\obj\Debug\Shoprite.Properties.Resources.resources
+E:\Ecommerce\Shoprite\obj\Debug\Shoprite.csproj.GenerateResource.cache
+E:\Ecommerce\Shoprite\obj\Debug\Shoprite.csproj.CoreCompileInputs.cache
+E:\Ecommerce\Shoprite\obj\Debug\Shoprite.csproj.Up2Date
+E:\Ecommerce\Shoprite\obj\Debug\Shoprite.exe
+E:\Ecommerce\Shoprite\obj\Debug\Shoprite.pdb
+C:\Users\MMO\Downloads\Ecommerce\Shoprite\obj\Debug\Shoprite.csproj.AssemblyReference.cache
+C:\Users\MMO\Downloads\Ecommerce\Shoprite\obj\Debug\Shoprite.exe.config
+C:\Users\MMO\Downloads\Ecommerce\Shoprite\obj\Debug\carts\Tills.g.cs
+C:\Users\MMO\Downloads\Ecommerce\Shoprite\obj\Debug\carts\Tomato.g.cs
+C:\Users\MMO\Downloads\Ecommerce\Shoprite\obj\Debug\MainWindow.g.cs
+C:\Users\MMO\Downloads\Ecommerce\Shoprite\obj\Debug\Screens\Admin.g.cs
+C:\Users\MMO\Downloads\Ecommerce\Shoprite\obj\Debug\Screens\AdminScreen.g.cs
+C:\Users\MMO\Downloads\Ecommerce\Shoprite\obj\Debug\Screens\cart.g.cs
+C:\Users\MMO\Downloads\Ecommerce\Shoprite\obj\Debug\Screens\Forget.g.cs
+C:\Users\MMO\Downloads\Ecommerce\Shoprite\obj\Debug\Screens\Home.g.cs
+C:\Users\MMO\Downloads\Ecommerce\Shoprite\obj\Debug\Screens\newUser.g.cs
+C:\Users\MMO\Downloads\Ecommerce\Shoprite\obj\Debug\Screens\Shop.g.cs
+C:\Users\MMO\Downloads\Ecommerce\Shoprite\obj\Debug\App.g.cs
+C:\Users\MMO\Downloads\Ecommerce\Shoprite\obj\Debug\Shoprite_MarkupCompile.cache
+C:\Users\MMO\Downloads\Ecommerce\Shoprite\obj\Debug\Shoprite_MarkupCompile.lref
+C:\Users\MMO\Downloads\Ecommerce\Shoprite\obj\Debug\Shoprite.exe
+C:\Users\MMO\Downloads\Ecommerce\Shoprite\obj\Debug\Shoprite.pdb
+C:\Users\MMO\Downloads\Ecommerce\Shoprite\bin\Debug\Shoprite.exe.config
+C:\Users\MMO\Downloads\Ecommerce\Shoprite\bin\Debug\Shoprite.exe
+C:\Users\MMO\Downloads\Ecommerce\Shoprite\bin\Debug\Shoprite.pdb
+C:\Users\MMO\Downloads\Ecommerce\Shoprite\bin\Debug\MaterialDesignColors.dll
+C:\Users\MMO\Downloads\Ecommerce\Shoprite\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\MMO\Downloads\Ecommerce\Shoprite\bin\Debug\Google.Protobuf.dll
+C:\Users\MMO\Downloads\Ecommerce\Shoprite\bin\Debug\ZstdNet.dll
+C:\Users\MMO\Downloads\Ecommerce\Shoprite\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\MMO\Downloads\Ecommerce\Shoprite\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\MMO\Downloads\Ecommerce\Shoprite\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\MMO\Downloads\Ecommerce\Shoprite\bin\Debug\System.Memory.dll
+C:\Users\MMO\Downloads\Ecommerce\Shoprite\bin\Debug\System.Buffers.dll
+C:\Users\MMO\Downloads\Ecommerce\Shoprite\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\MMO\Downloads\Ecommerce\Shoprite\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\MMO\Downloads\Ecommerce\Shoprite\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\MMO\Downloads\Ecommerce\Shoprite\bin\Debug\MaterialDesignColors.pdb
+C:\Users\MMO\Downloads\Ecommerce\Shoprite\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\MMO\Downloads\Ecommerce\Shoprite\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\MMO\Downloads\Ecommerce\Shoprite\bin\Debug\MySql.Data.xml
+C:\Users\MMO\Downloads\Ecommerce\Shoprite\obj\Debug\App.baml
+C:\Users\MMO\Downloads\Ecommerce\Shoprite\obj\Debug\carts\Tills.baml
+C:\Users\MMO\Downloads\Ecommerce\Shoprite\obj\Debug\carts\Tomato.baml
+C:\Users\MMO\Downloads\Ecommerce\Shoprite\obj\Debug\MainWindow.baml
+C:\Users\MMO\Downloads\Ecommerce\Shoprite\obj\Debug\Screens\Admin.baml
+C:\Users\MMO\Downloads\Ecommerce\Shoprite\obj\Debug\Screens\AdminScreen.baml
+C:\Users\MMO\Downloads\Ecommerce\Shoprite\obj\Debug\Screens\cart.baml
+C:\Users\MMO\Downloads\Ecommerce\Shoprite\obj\Debug\Screens\Forget.baml
+C:\Users\MMO\Downloads\Ecommerce\Shoprite\obj\Debug\Screens\Home.baml
+C:\Users\MMO\Downloads\Ecommerce\Shoprite\obj\Debug\Screens\newUser.baml
+C:\Users\MMO\Downloads\Ecommerce\Shoprite\obj\Debug\Screens\Shop.baml
+C:\Users\MMO\Downloads\Ecommerce\Shoprite\obj\Debug\Shoprite.g.resources
+C:\Users\MMO\Downloads\Ecommerce\Shoprite\obj\Debug\Shoprite.Properties.Resources.resources
+C:\Users\MMO\Downloads\Ecommerce\Shoprite\obj\Debug\Shoprite.csproj.GenerateResource.cache
+C:\Users\MMO\Downloads\Ecommerce\Shoprite\obj\Debug\Shoprite.csproj.CoreCompileInputs.cache
+C:\Users\MMO\Downloads\Ecommerce\Shoprite\obj\Debug\Shoprite.csproj.CopyComplete
+C:\Users\MMO\Downloads\Ecommerce\Shoprite\bin\Debug\Shoprite.exe.manifest
+C:\Users\MMO\Downloads\Ecommerce\Shoprite\bin\Debug\Shoprite.application
+C:\Users\MMO\Downloads\Ecommerce\Shoprite\obj\Debug\Shoprite.exe.manifest
+C:\Users\MMO\Downloads\Ecommerce\Shoprite\obj\Debug\Shoprite.application
+E:\4th semestetr\Ecommerce\Ecommerce\Shoprite\bin\Debug\Shoprite.exe.config
+E:\4th semestetr\Ecommerce\Ecommerce\Shoprite\bin\Debug\Shoprite.exe.manifest
+E:\4th semestetr\Ecommerce\Ecommerce\Shoprite\bin\Debug\Shoprite.application
+E:\4th semestetr\Ecommerce\Ecommerce\Shoprite\bin\Debug\Shoprite.exe
+E:\4th semestetr\Ecommerce\Ecommerce\Shoprite\bin\Debug\Shoprite.pdb
+E:\4th semestetr\Ecommerce\Ecommerce\Shoprite\bin\Debug\MaterialDesignColors.dll
+E:\4th semestetr\Ecommerce\Ecommerce\Shoprite\bin\Debug\MaterialDesignThemes.Wpf.dll
+E:\4th semestetr\Ecommerce\Ecommerce\Shoprite\bin\Debug\Google.Protobuf.dll
+E:\4th semestetr\Ecommerce\Ecommerce\Shoprite\bin\Debug\ZstdNet.dll
+E:\4th semestetr\Ecommerce\Ecommerce\Shoprite\bin\Debug\K4os.Compression.LZ4.Streams.dll
+E:\4th semestetr\Ecommerce\Ecommerce\Shoprite\bin\Debug\BouncyCastle.Crypto.dll
+E:\4th semestetr\Ecommerce\Ecommerce\Shoprite\bin\Debug\Ubiety.Dns.Core.dll
+E:\4th semestetr\Ecommerce\Ecommerce\Shoprite\bin\Debug\System.Memory.dll
+E:\4th semestetr\Ecommerce\Ecommerce\Shoprite\bin\Debug\System.Buffers.dll
+E:\4th semestetr\Ecommerce\Ecommerce\Shoprite\bin\Debug\K4os.Compression.LZ4.dll
+E:\4th semestetr\Ecommerce\Ecommerce\Shoprite\bin\Debug\K4os.Hash.xxHash.dll
+E:\4th semestetr\Ecommerce\Ecommerce\Shoprite\bin\Debug\System.Numerics.Vectors.dll
+E:\4th semestetr\Ecommerce\Ecommerce\Shoprite\bin\Debug\MaterialDesignColors.pdb
+E:\4th semestetr\Ecommerce\Ecommerce\Shoprite\bin\Debug\MaterialDesignThemes.Wpf.pdb
+E:\4th semestetr\Ecommerce\Ecommerce\Shoprite\bin\Debug\MaterialDesignThemes.Wpf.xml
+E:\4th semestetr\Ecommerce\Ecommerce\Shoprite\bin\Debug\MySql.Data.xml
+E:\4th semestetr\Ecommerce\Ecommerce\Shoprite\obj\Debug\Shoprite.csproj.AssemblyReference.cache
+E:\4th semestetr\Ecommerce\Ecommerce\Shoprite\obj\Debug\Shoprite.csproj.SuggestedBindingRedirects.cache
+E:\4th semestetr\Ecommerce\Ecommerce\Shoprite\obj\Debug\Shoprite.exe.config
+E:\4th semestetr\Ecommerce\Ecommerce\Shoprite\obj\Debug\carts\Tills.g.cs
+E:\4th semestetr\Ecommerce\Ecommerce\Shoprite\obj\Debug\carts\Tomato.g.cs
+E:\4th semestetr\Ecommerce\Ecommerce\Shoprite\obj\Debug\MainWindow.g.cs
+E:\4th semestetr\Ecommerce\Ecommerce\Shoprite\obj\Debug\Screens\Admin.g.cs
+E:\4th semestetr\Ecommerce\Ecommerce\Shoprite\obj\Debug\Screens\AdminScreen.g.cs
+E:\4th semestetr\Ecommerce\Ecommerce\Shoprite\obj\Debug\Screens\cart.g.cs
+E:\4th semestetr\Ecommerce\Ecommerce\Shoprite\obj\Debug\Screens\Forget.g.cs
+E:\4th semestetr\Ecommerce\Ecommerce\Shoprite\obj\Debug\Screens\Home.g.cs
+E:\4th semestetr\Ecommerce\Ecommerce\Shoprite\obj\Debug\Screens\newUser.g.cs
+E:\4th semestetr\Ecommerce\Ecommerce\Shoprite\obj\Debug\Screens\Shop.g.cs
+E:\4th semestetr\Ecommerce\Ecommerce\Shoprite\obj\Debug\App.g.cs
+E:\4th semestetr\Ecommerce\Ecommerce\Shoprite\obj\Debug\Shoprite_MarkupCompile.cache
+E:\4th semestetr\Ecommerce\Ecommerce\Shoprite\obj\Debug\Shoprite_MarkupCompile.lref
+E:\4th semestetr\Ecommerce\Ecommerce\Shoprite\obj\Debug\App.baml
+E:\4th semestetr\Ecommerce\Ecommerce\Shoprite\obj\Debug\carts\Tills.baml
+E:\4th semestetr\Ecommerce\Ecommerce\Shoprite\obj\Debug\carts\Tomato.baml
+E:\4th semestetr\Ecommerce\Ecommerce\Shoprite\obj\Debug\MainWindow.baml
+E:\4th semestetr\Ecommerce\Ecommerce\Shoprite\obj\Debug\Screens\Admin.baml
+E:\4th semestetr\Ecommerce\Ecommerce\Shoprite\obj\Debug\Screens\AdminScreen.baml
+E:\4th semestetr\Ecommerce\Ecommerce\Shoprite\obj\Debug\Screens\cart.baml
+E:\4th semestetr\Ecommerce\Ecommerce\Shoprite\obj\Debug\Screens\Forget.baml
+E:\4th semestetr\Ecommerce\Ecommerce\Shoprite\obj\Debug\Screens\Home.baml
+E:\4th semestetr\Ecommerce\Ecommerce\Shoprite\obj\Debug\Screens\newUser.baml
+E:\4th semestetr\Ecommerce\Ecommerce\Shoprite\obj\Debug\Screens\Shop.baml
+E:\4th semestetr\Ecommerce\Ecommerce\Shoprite\obj\Debug\Shoprite.g.resources
+E:\4th semestetr\Ecommerce\Ecommerce\Shoprite\obj\Debug\Shoprite.Properties.Resources.resources
+E:\4th semestetr\Ecommerce\Ecommerce\Shoprite\obj\Debug\Shoprite.csproj.GenerateResource.cache
+E:\4th semestetr\Ecommerce\Ecommerce\Shoprite\obj\Debug\Shoprite.csproj.CoreCompileInputs.cache
+E:\4th semestetr\Ecommerce\Ecommerce\Shoprite\obj\Debug\Shoprite.exe.manifest
+E:\4th semestetr\Ecommerce\Ecommerce\Shoprite\obj\Debug\Shoprite.application
+E:\4th semestetr\Ecommerce\Ecommerce\Shoprite\obj\Debug\Shoprite.csproj.Up2Date
+E:\4th semestetr\Ecommerce\Ecommerce\Shoprite\obj\Debug\Shoprite.exe
+E:\4th semestetr\Ecommerce\Ecommerce\Shoprite\obj\Debug\Shoprite.pdb

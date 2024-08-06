@@ -1,0 +1,134 @@
+﻿<Window x:Class="Shoprite.Screens.Home"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes"
+        xmlns:local="clr-namespace:Shoprite.Screens"
+        mc:Ignorable="d"
+        TextElement.Foreground="{DynamicResource MaterialDesignBody}"
+        AllowsTransparency="True"
+        WindowStyle="None"
+        WindowStartupLocation="CenterScreen"
+        Background="Transparent"
+        Title="Home" Height="760" Width="1400">
+
+    <materialDesign:Card UniformCornerRadius="20" Background="{DynamicResource MaterialDesignPaper}" 
+     Margin="25" materialDesign:ShadowAssist.ShadowDepth="Depth4">
+
+        <Grid ShowGridLines="True">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="200"/>
+                <ColumnDefinition />
+                <ColumnDefinition  />
+                <ColumnDefinition Width="180"/>
+                <ColumnDefinition Width="250" />
+            </Grid.ColumnDefinitions>
+
+            <Grid.RowDefinitions>
+                <RowDefinition Height="80"/>
+                <RowDefinition/>
+            </Grid.RowDefinitions>
+
+            <StackPanel Grid.Column="0" Orientation="Horizontal" VerticalAlignment="Center"/>
+
+            <StackPanel Grid.Column="4" Orientation="Horizontal" VerticalAlignment="Center" HorizontalAlignment="Right" >
+                <Image Source="/Images/online-shopping.png" Height="30" Width="60" VerticalAlignment="Center"/>
+                <Image Source="/Images/chat.png" Height="30" Width="30" Margin="10 0 0 0" VerticalAlignment="Center" />
+                <Menu VerticalAlignment="Center" >
+                    <MenuItem Header="Menu" FontWeight="Medium" Margin="10 0 10 0" FontSize="25" Foreground="{DynamicResource MaterialDesignBody}">
+                        <MenuItem Header="Home" FontSize="16"/>
+                        <MenuItem Header="Categories" FontSize="16" />
+                        <MenuItem Header="Logout" Click="logout" FontSize="16"/>
+                    </MenuItem>
+                </Menu>
+            </StackPanel>
+
+            <StackPanel Grid.Column="1" Grid.ColumnSpan="3" Orientation="Horizontal" HorizontalAlignment="Center" VerticalAlignment="Center"  >
+                <Button Content="Collections" Height="40" Width="130" Background="Transparent" FontSize="17"
+                        Foreground="{DynamicResource MaterialDesignBody}" BorderBrush="Transparent" FontWeight="DemiBold"/>
+                <Button Margin="20 0 0 0" Content="Brand"  Height="40" Width="90" Background="Transparent" FontSize="17"
+                        Foreground="{DynamicResource MaterialDesignBody}" BorderBrush="Transparent"  FontWeight="DemiBold"/>
+                <Button Margin="20 0 0 0" Content="New"  Height="40" Width="90" Background="Transparent" FontSize="17"
+                        Foreground="{DynamicResource MaterialDesignBody}" BorderBrush="Transparent" FontWeight="DemiBold"/>
+                <Button Margin="20 0 0 0" Content="Sales"  Height="40" Width="90" Background="Transparent" FontSize="17" 
+                        Foreground="{DynamicResource MaterialDesignBody}" BorderBrush="Transparent"  FontWeight="DemiBold"/>
+            </StackPanel>
+
+            <Image Source="/Images/bag.png" Grid.Row="1" Grid.ColumnSpan="3" Width="820"  Height="600" VerticalAlignment="Bottom" HorizontalAlignment="Left" Margin="22,0,0,20"/>
+
+            <Grid Grid.Row="1" Grid.Column="3" Grid.ColumnSpan="2" VerticalAlignment="Center" >
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition/>
+                    <ColumnDefinition/>
+                </Grid.ColumnDefinitions>
+
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="290"/>
+                    <RowDefinition  Height="100"/>
+                    <RowDefinition/>
+                </Grid.RowDefinitions>
+
+                <StackPanel Grid.Column="0" Grid.ColumnSpan="2"  VerticalAlignment="Center" HorizontalAlignment="Center">
+                    <Label Content="Lets Go" Foreground="{DynamicResource MaterialDesignBody}" FontSize="55" FontWeight="Bold" 
+                           HorizontalAlignment="Left"/>
+                    <Label Content="Shopping" Foreground="{DynamicResource MaterialDesignBody}" FontSize="50" FontWeight="Bold"  />
+                </StackPanel>
+
+                <StackPanel Grid.Row="1" Grid.ColumnSpan="2" VerticalAlignment="Center" 
+                            HorizontalAlignment="Center" Orientation="Horizontal">
+
+                    <Button Content="Shop Now" Width="150" Height="45" HorizontalAlignment="Left" FontSize="10" Background="Red" BorderBrush="Transparent"
+                            Margin="0 0 0 0" FontWeight="Bold" materialDesign:ButtonAssist.CornerRadius="20" Click="buy" />
+                    <Image Margin="15 0 0 0" Source="/Images/checked.png" Width="60" Height="40" VerticalAlignment="Center" 
+                           HorizontalAlignment="Center"/>
+                    <TextBlock Margin="10 0 0 0" Text="What's Trending?" VerticalAlignment="Center" Foreground="{DynamicResource MaterialDesignBody}" 
+                                FontSize="15" FontWeight="DemiBold"/>
+                </StackPanel>
+
+                <Grid ShowGridLines="True" Grid.Row="2" Grid.ColumnSpan="2" Background="{DynamicResource MaterialDesignPaper}" Margin="0 0 10 10" >
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition />
+                        <ColumnDefinition Width="10"/>
+                        <ColumnDefinition/>
+                    </Grid.ColumnDefinitions>
+
+                    <Grid.RowDefinitions>
+                        <RowDefinition />
+                        <RowDefinition Height="15"/>
+                        <RowDefinition />
+                    </Grid.RowDefinitions>
+
+                    <materialDesign:Card UniformCornerRadius="10" Margin="20 0 15 0"
+                              Grid.Column="0" materialDesign:ShadowAssist.ShadowDepth="Depth2" >
+
+                        <Image Source="/Images/tom.png" Width="250"/>
+                    </materialDesign:Card>
+
+                    <materialDesign:Card UniformCornerRadius="10" Margin="20 0 15 0"
+                             Grid.Column="2" materialDesign:ShadowAssist.ShadowDepth="Depth2" >
+
+                        <Image Source="/Images/head.png" />
+                    </materialDesign:Card>
+
+
+
+                    <materialDesign:Card UniformCornerRadius="10" Grid.Row="2" Margin="20 0 15 0"
+                              Grid.Column="0" materialDesign:ShadowAssist.ShadowDepth="Depth2" >
+                        <Image Source="/Images/tom.png" Width="250"/>
+                    </materialDesign:Card>
+
+                    <materialDesign:Card UniformCornerRadius="10" Grid.Row="2" Margin="20 0 15 0"
+                             Grid.Column="2" materialDesign:ShadowAssist.ShadowDepth="Depth2" >
+                        <Image Source="/Images/head.png" />
+                    </materialDesign:Card>
+
+                </Grid>
+
+            </Grid>
+
+        </Grid>
+
+    </materialDesign:Card>
+
+</Window>
